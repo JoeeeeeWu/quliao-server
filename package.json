@@ -17,6 +17,6 @@
     "koa-router": "^7.2.1",
     "koa2-cors": "^2.0.3",
     "mongoose": "^4.11.7",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.5.0"
   }
 }
